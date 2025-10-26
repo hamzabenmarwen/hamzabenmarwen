@@ -4,10 +4,16 @@
 
 I'm a Master's student in DSIR building full-stack applications that solve real problems. Every project starts with careful planning and design, then comes to life through clean, efficient code. My technical stack includes MERN, Spring Boot, Angular, Symfony, Flutter, PostgreSQL, and MySQL. I approach development holistically—considering architecture, user experience, and scalability from day one. Open to internship opportunities where I can contribute, learn, and make an impact.
 
-  
+  <!--
 
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
 ---
-
+-->
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
